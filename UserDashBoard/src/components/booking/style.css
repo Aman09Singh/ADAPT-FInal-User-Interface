@@ -1,0 +1,109 @@
+#bg {
+    background-color: aliceblue;
+    margin-top: 0%;
+    margin-bottom: 0%;;
+}
+
+#centerpage {
+    border: 5px black solid;
+    margin-left: 450px;
+    margin-top: 200px;
+    background-color: #abd9f5;
+    margin-right: 450px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif 
+}
+
+#h1center {
+    text-align: center;   
+    padding: 20px;
+    
+}
+
+#checkoutbtn {
+    margin-top: 10px;
+    margin-left: 450px;
+    margin-right: 500px;
+    font-size: 20px;
+
+ 
+}
+
+#h2name {
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    
+}
+
+#h2train{
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#h2type {
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#h2age{
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#h2date{
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#h2email{
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.modal {
+    position: fixed;
+    left: 0;
+    top:0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content {
+    width: 500px;
+    background-color: #fff;
+}
+
+.modal-header, .modal-footer {
+
+    padding: 10px;
+}
+
+.modal-title {
+    margin: 0;
+}
+
+.modal-body{
+    padding: 10px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
